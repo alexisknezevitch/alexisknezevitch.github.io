@@ -1,25 +1,23 @@
 ---
-title: "Welcome"
-date: 2026-07-06
+title: "Home"
+layout: "page"
 ---
 
-## About Me
+{{< style >}}
 
-Welcome to my personal homepage. I am a **PhD student / Postdoctoral researcher** (à adapter) in mathematics. 
+<div style="text-align: left !important; max-width: 800px; margin: 0 auto;">
 
-My research interests lie in [insère ton domaine ici, ex: Algebraic Geometry / Probability Theory].
+<img src="/images/myself_umpa.jpg" style="float: left; width: 180px; margin-right: 20px; margin-bottom: 10px; border-radius: 8px;">
 
-### Research & Preprints
-*   *Paper 1* (2026) — In preparation.
-*   *Paper 2* (2025) — Submitted.
+### About Me
 
-### Teaching
-*   **Linear Algebra** (Undergraduate course) — Teaching Assistant.
+I am a third year PhD Student under the supervision of [Chenmin Sun](https://vladimirsunski.github.io/chenminmath.github.io/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/) at [UMPA](https://www.umpa.ens-lyon.fr/), ENS Lyon.
 
-### Research Sandbox
-Here is a quick test for inline math: $e^{i\pi} + 1 = 0$, and a displayed equation:
+I am mostly interested in Hamiltonian PDEs with random initial data, with a particular focus on dispersive PDEs.
 
-$$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$
+You can find a short CV [here](/cv/).
+
+<div style="clear: both; margin-top: 40px;"></div>
 
 
-![Alexis Knezevitch](myself_umpa.jpg)
+**Email :** alexis.knezevitch@ens-lyon.fr 

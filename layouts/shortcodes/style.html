@@ -1,0 +1,65 @@
+<style>
+  /* ==========================================
+     1. NETTOYAGE DES LIENS & ALIGNEMENT (Inchangé)
+     ========================================== */
+  a { 
+    text-decoration: none !important; 
+    border-bottom: none !important;
+    background: none !important;
+    box-shadow: none !important;
+  }
+  a:hover { 
+    text-decoration: underline !important; 
+  }
+
+  /* ==========================================
+     2. CONFIGURATION MODE CLAIR (IVOIRE)
+     Appliquée uniquement si la classe ".dark" n'est PAS présente
+     ========================================== */
+  body:not(.dark), 
+  body:not(.dark) main, 
+  body:not(.dark) .main, 
+  body:not(.dark) .page-content, 
+  body:not(.dark) .post-content, 
+  body:not(.dark) article {
+    background-color: #fff7e6 !important;
+    color: #2c2a29 !important;
+  }
+
+  body:not(.dark) h1, 
+  body:not(.dark) h2, 
+  body:not(.dark) h3, 
+  body:not(.dark) h4 {
+    color: #1a1918 !important;
+  }
+
+  body:not(.dark) a {
+    color: #b85d19 !important; /* Liens Terracotta */
+  }
+
+
+  /* ==========================================
+     3. CONFIGURATION MODE SOMBRE (ORIGINE)
+     Appliquée STRICTEMENT quand la classe ".dark" est activée
+     ========================================== */
+  body.dark, 
+  body.dark main, 
+  body.dark .main, 
+  body.dark .page-content, 
+  body.dark .post-content, 
+  body.dark article {
+    background-color: #1d1e20 !important; /* Retour au vrai noir PaperMod */
+    color: #e3e3e3 !important;
+  }
+
+  body.dark h1, 
+  body.dark h2, 
+  body.dark h3, 
+  body.dark h4 {
+    color: #ffffff !important;
+  }
+
+  body.dark a {
+    color: #ff9e59 !important; /* Liens orange clair lumineux */
+  }
+</style>

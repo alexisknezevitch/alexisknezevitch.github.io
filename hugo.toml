@@ -1,6 +1,70 @@
 baseURL = 'https://alexisknezevitch.github.io/'
 locale = 'en-us'
-title = 'Alexis — Personal Homepage'
+title = 'Alexis Knezevitch'
+theme = "PaperMod"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# --- PARAMÈTRES DU THÈME PAPERMOD ---
+  
 [params]
-    description = 'Junior Researcher in Mathematics'
+
+  disableThemeToggle = true
+  defaultTheme = "light" # Force le site à rester en mode clair (ivoire)
+  
+  env = "production"
+  description = "PhD Student in Mathematics at ENS Lyon"
+  
+  # Configuration de la page d'accueil (Profile Mode)
+  [params.profileMode]
+    enabled = false
+    title = "Alexis Knezevitch"
+    subtitle = "I am a third year PhD Student under the supervision of [Chenmin Sun](https://vladimirsunski.github.io/chenminmath.github.io/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/) at [UMPA](https://www.umpa.ens-lyon.fr/), ENS Lyon."
+    
+    # Gestion de la photo
+    imageUrl = "images/myself_umpa_square.jpg" # Chemin vers ta photo dans le dossier static/images/
+    imageWidth = 160                 # Ajuste cette valeur pour la taille (150 à 180 c'est idéal)
+    imageHeight = 160                # Garde la même valeur pour rester carré
+    imageTitle = "Alexis Knezevitch"
+
+    # Liens sous forme de boutons
+    [[params.profileMode.buttons]]
+      name = "Publications"
+      url = "/publications/"
+    [[params.profileMode.buttons]]
+      name = "Teaching"
+      url = "/teaching/"
+    [[params.profileMode.buttons]]
+      name = "Talks"
+      url = "/talks/"
+
+  # --- AJOUT DES ICÔNES DE RÉSEAUX / CONTACT ---
+  # PaperMod va créer automatiquement de jolies icônes sobres en dessous de ta bio !
+  [[params.socialIcons]]
+    name = "email"
+    url = "alexis.knezevitch@ens-lyon.fr" # Mets ton email ici
+ 
+
+# --- MENU DE NAVIGATION (En haut à droite) ---
+[[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+
+[[menus.main]]
+    name = "Publications"
+    pageRef = "/publications/"
+    weight = 20
+
+[[menus.main]]
+    name = "Talks"
+    pageRef = "/talks/"
+    weight = 30
+
+[[menus.main]]
+    name = "Teaching"
+    pageRef = "/teaching/"
+    weight = 40
