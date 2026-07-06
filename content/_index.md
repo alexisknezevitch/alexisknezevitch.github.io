@@ -20,3 +20,6 @@ My research interests lie in [insère ton domaine ici, ex: Algebraic Geometry / 
 Here is a quick test for inline math: $e^{i\pi} + 1 = 0$, and a displayed equation:
 
 $$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$
+
+
+![Alexis Knezevitch](myself_umpa.jpg)
