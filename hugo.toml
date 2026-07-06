@@ -1,0 +1,6 @@
+baseURL = 'https://alexisknezevitch.github.io/'
+locale = 'en-us'
+title = 'Alexis — Personal Homepage'
+
+[params]
+    description = 'Junior Researcher in Mathematics'
