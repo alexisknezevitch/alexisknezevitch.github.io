@@ -6,10 +6,10 @@ draft: false
 
 {{< style >}}
 
-* **Stochastic and Dispersive PDEs for Young Researchers**  *University of Edinburgh, April 2026*.
+* Stochastic and Dispersive PDEs for Young Researchers---*University of Edinburgh, April 2026*.
   
-* **Young Lyon analysts and modellers’ day**  *ICJ, Université Claude Bernard Lyon 1, December 2025*.
+* Young Lyon analysts and modellers’ day---*ICJ, Université Claude Bernard Lyon 1, December 2025*.
 
-* **Analysis Seminar**  *IRMAR, Université de Rennes, November 2025*.
+* Analysis Seminar---*IRMAR, Université de Rennes, November 2025*.
 
-* **ANR Smooth**  *Université de Bretagne occidentale, May 2024*. 
+* ANR Smooth---*Université de Bretagne occidentale, May 2024*. 
