@@ -22,3 +22,7 @@ You can find a short CV [here](/cv/).
 
 
 **Email :** alexis.knezevitch@ens-lyon.fr 
+
+<div style="clear: both; margin-top: 20px;"></div>
+
+**Links :** [arXiv](https://arxiv.org/search/math?searchtype=author&query=Knezevitch,+A), [ORCID](https://orcid.org/0009-0008-4582-2397)
