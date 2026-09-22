@@ -11,7 +11,9 @@ layout: "page"
 
 ### About Me
 
-I am a third year PhD Student under the supervision of [Chenmin Sun](https://vladimirsunski.github.io/chenminmath.github.io/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/) at [UMPA](https://www.umpa.ens-lyon.fr/), ENS Lyon.
+I am a Postdoctoral Researcher in the group of [Leonardo Tolomeo](https://webhomes.maths.ed.ac.uk/~ltolome2/) at the University of Edinburgh. 
+
+I recently completed my PhD under the supervision of [Chenmin Sun](https://vladimirsunski.github.io/chenminmath.github.io/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/) at [UMPA](https://www.umpa.ens-lyon.fr/), ENS Lyon.
 
 
 I am mostly interested in Hamiltonian PDEs with random initial data, with a particular focus on dispersive PDEs.
@@ -21,7 +23,7 @@ You can find a short CV [here](/cv/).
 <div style="clear: both; margin-top: 40px;"></div>
 
 
-**Email :** alexis.knezevitch@ens-lyon.fr 
+**Email :** aknezevi@ed.ac.uk
 
 <div style="clear: both; margin-top: 20px;"></div>
 

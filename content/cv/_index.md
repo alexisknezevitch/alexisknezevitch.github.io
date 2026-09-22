@@ -11,7 +11,7 @@ draft: false
 
 ### Current Position
 
-PhD Student at UMPA, ENS Lyon. Under the supervision of [Chenmin Sun](https://vladimirsunski.github.io/chenminmath.github.io/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/).
+Postdoctoral Researcher in the group of [Leonardo Tolomeo](https://webhomes.maths.ed.ac.uk/~ltolome2/) at the University of Edinburgh.
 
 
 ### Education 
